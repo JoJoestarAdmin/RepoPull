@@ -6,3 +6,6 @@ vpython
 
 PyGithub
 requests
+
+
+rdiffweb==0.10
